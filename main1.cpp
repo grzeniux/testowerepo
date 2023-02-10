@@ -7,7 +7,7 @@ int main() {
         cout << "Podaj Numer Miesiaca: " << endl;
        if (!(cin >> nr_miesiaca))
             {
-                cerr<<"To nie jest liczba!";
+                cerr<<"To nie jest liczba ziomus!";
                 exit(0);
             }
         switch (nr_miesiaca) {
