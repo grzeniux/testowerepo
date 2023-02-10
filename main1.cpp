@@ -4,7 +4,7 @@
 using namespace std;
 int nr_miesiaca;
 int main() {
-        cout << "Podaj numer miesiaca: " << endl;
+        cout << "Podaj Numer Miesiaca: " << endl;
        if (!(cin >> nr_miesiaca))
             {
                 cerr<<"To nie jest liczba!";
